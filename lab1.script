@@ -1,0 +1,12 @@
+Script started on 2017年03月10日 (週五) 17時19分05秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m whoami; pwd
+pd2vm
+/home/pd2vm/cpp_programming
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m git config -l
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m git config https://github.com/dussmt1 /lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/dussmt1/l[1Pab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m [C[C[C[C[C[C[C[C[C https://github.com/dussmt1/la[1Pb1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m [C[C[C[C[C[C[C[C https://github.com/dussmt1/lab[1P1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m [C[C[C[C[C[C[C https://github.com/dussmt1/lab1[1P.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m [C[C[C[C[C[C https://github.com/dussmt1/lab1.[1Pgit[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m [C[C[C[C[C https://github.com/dussmt1/lab1.g[1Pit[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m [C[C[C[Cc https://github.com/dussmt1/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m [C[C[C[C[Cl https://github.com/dussmt1/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m [C[C[C[C[C[Co https://github.com/dussmt1/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m [C[C[C[C[C[C[Cn https://github.com/dussmt1/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m [C[C[C[C[C[C[C[Ce https://github.com/dussmt1/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m [C[C[C[C[C[C[C[C[C
+
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/cpp_programming $[00m 
+Script done on 2017年03月10日 (週五) 17時20分12秒
