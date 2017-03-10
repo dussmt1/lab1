@@ -1,0 +1,2 @@
+compiling:
+	g++ A.cpp -o A
